@@ -1,0 +1,3 @@
+Zaznam pre SB: 1158
+ Sm  Ck1  Ck2   OUT
+1248 1473 1536  96568544
